@@ -1,0 +1,130 @@
+{
+  "@@last_modified": "2019-05-29T23:15:51.076425",
+  "title": "Colleagues",
+  "@title": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "anniversaryTitle": "ANNIVERSARY",
+  "@anniversaryTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourCompanyTitle": "Your Company",
+  "@yourCompanyTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "homeMenu": "Home",
+  "@homeMenu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "colleaguesMenu": "Colleagues",
+  "@colleaguesMenu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchMenu": "Search",
+  "@searchMenu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "favoritesMenu": "Favorites",
+  "@favoritesMenu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsMenu": "Settings",
+  "@settingsMenu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeBranchLabel": "Change Branch",
+  "@changeBranchLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changingLabel": "Changing...",
+  "@changingLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingLabel": "Loading...",
+  "@loadingLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "departmentLabel": "Departments",
+  "@departmentLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myProfileLabel": "My Profile",
+  "@myProfileLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "profileLabel": "Profile",
+  "@profileLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountSettingsLabel": "Account Settings",
+  "@accountSettingsLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "languageSettingsLabel": "Language",
+  "@languageSettingsLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "openLabel": "OPEN",
+  "@openLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailLabel": "Email",
+  "@emailLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintEmailMsg": "Please enter email",
+  "@hintEmailMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordLabel": "Password",
+  "@passwordLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintPasswordMsg": "Please enter password",
+  "@hintPasswordMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "branchSelectionLabel": "Branch selection",
+  "@branchSelectionLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "memberSearchHint": "Search name, job, department, ...",
+  "@memberSearchHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signInLabel": "SIGN IN{suf}",
+  "@signInLabel": {
+    "type": "text",
+    "placeholders": {
+      "suf": {}
+    }
+  },
+  "exitAppLabel": "Press one more to exit",
+  "@exitAppLabel": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

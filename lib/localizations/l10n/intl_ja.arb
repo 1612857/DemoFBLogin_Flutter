@@ -1,0 +1,670 @@
+{
+  "_locale": "ja",
+  "@@last_modified": "2018-11-12T10:39:46.762738",
+  "title": "Colleagues",
+  "@title": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "anniversaryTitle": "記念日",
+  "@anniversaryTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourCompanyTitle": "あなたの会社",
+  "@yourCompanyTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "homeMenu": "ホーム",
+  "@homeMenu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "colleaguesMenu": "同僚",
+  "@colleaguesMenu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchMenu": "検索",
+  "@searchMenu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "favoritesMenu": "お気に入り",
+  "@favoritesMenu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsMenu": "設定",
+  "@settingsMenu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeBranchLabel": "会社・支店を変更",
+  "@changeBranchLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changingLabel": "変更中…",
+  "@changingLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingLabel": "ロード中…",
+  "@loadingLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "departmentLabel": "部署",
+  "@departmentLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myProfileLabel": "マイプロフィール",
+  "@myProfileLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "profileLabel": "プロフィール",
+  "@profileLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountSettingsLabel": "アカウント設定",
+  "@accountSettingsLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "languageSettingsLabel": "言語",
+  "@languageSettingsLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appVersionLabel": "アプリバージョン",
+  "@appVersionLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacyPolicyLabel": "プライバシーポリシー",
+  "@privacyPolicyLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectPhotoLabel": "写真を選択",
+  "@selectPhotoLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cameraLabel": "カメラ",
+  "@cameraLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "galleryLabel": "ギャラリー",
+  "@galleryLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cameraPermissionLabel": "カメラ",
+  "@cameraPermissionLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cameraPermissionDespLabel": "カメラへのアクセス許可が必要です",
+  "@cameraPermissionDespLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "openSettingLabel": "設定を開く",
+  "@openSettingLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notSetLabel": "設定しない",
+  "@notSetLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "openLabel": "開く",
+  "@openLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "skillsLabel": "スキル",
+  "@skillsLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addLabel": "追加",
+  "@addLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintNewSkillMsg": "新しいスキルを入力",
+  "@hintNewSkillMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "skillNotEmptyMsg": "スキルは空白にできません",
+  "@skillNotEmptyMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "openXLabel": "{item}を開く",
+  "@openXLabel": {
+    "type": "text",
+    "placeholders": {
+      "item": {}
+    }
+  },
+  "joinAtLabel": "日付: {item}",
+  "@joinAtLabel": {
+    "type": "text",
+    "placeholders": {
+      "item": {}
+    }
+  },
+  "callToLabel": "{item}に電話する",
+  "@callToLabel": {
+    "type": "text",
+    "placeholders": {
+      "item": {}
+    }
+  },
+  "textToLabel": "{item}に送信する",
+  "@textToLabel": {
+    "type": "text",
+    "placeholders": {
+      "item": {}
+    }
+  },
+  "xPeopleLabel": "{item} 人物",
+  "@xPeopleLabel": {
+    "type": "text",
+    "placeholders": {
+      "item": {}
+    }
+  },
+  "mailToLabel": "{item}にメールする",
+  "@mailToLabel": {
+    "type": "text",
+    "placeholders": {
+      "item": {}
+    }
+  },
+  "emailLabel": "メール",
+  "@emailLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintEmailMsg": "メールアドレスを入力してください",
+  "@hintEmailMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordLabel": "パスワード",
+  "@passwordLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintPasswordMsg": "パスワードを入力してください",
+  "@hintPasswordMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "viewAllEventLabel": "すべてのイベントを見る",
+  "@viewAllEventLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emptyEventMsg": "現在、イベントがありません。",
+  "@emptyEventMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "eventsLabel": "イベント",
+  "@eventsLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "anniversariesLabel": "記念日",
+  "@anniversariesLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "branchDetailLabel": "会社や支店の情報",
+  "@branchDetailLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notAvailableOfflineMsg": "オフラインです。利用できません",
+  "@notAvailableOfflineMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutHint": "あなたの情報を入力してください",
+  "@aboutHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutMeLabel": "あなたについて",
+  "@aboutMeLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "branchLabel": "会社や支店",
+  "@branchLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "birthdayLabel": "誕生日",
+  "@birthdayLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneLabel": "電話番号",
+  "@phoneLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneHint": "電話番号を入力してください",
+  "@phoneHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "welcomeLabel": "ようこそ,",
+  "@welcomeLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continueLabel": "続ける",
+  "@continueLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tryAgainLabel": "もう一度やり直してください",
+  "@tryAgainLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "keywordNotFoundMsg": "見つかりません",
+  "@keywordNotFoundMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchingLabel": "検索中…",
+  "@searchingLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allEmployeeLabel": "すべてのメンバー",
+  "@allEmployeeLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emptyListLabel": "空白",
+  "@emptyListLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "moreLabel": "もっと見る",
+  "@moreLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactLabel": "連絡",
+  "@contactLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "todayLabel": "今日",
+  "@todayLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "detailLabel": "詳細",
+  "@detailLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "eventDetailLabel": "詳細情報",
+  "@eventDetailLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allEventsLabel": "すべてのイベント",
+  "@allEventsLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offlineLabel": "オフラインモード",
+  "@offlineLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notificationLabel": "通知",
+  "@notificationLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswordLabel": "パスワードを変更",
+  "@changePasswordLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logoutConfirmLabel": "ログアウトしますか?",
+  "@logoutConfirmLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logoutLabel": "ログアウト",
+  "@logoutLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordChangedLabel": "パスワードが変更されました",
+  "@passwordChangedLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currentPasswordLabel": "現在のパスワード",
+  "@currentPasswordLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "requestCurrentPasswordLabel": "現在のパスワードを入力してください",
+  "@requestCurrentPasswordLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newPasswordLabel": "新しいパスワード",
+  "@newPasswordLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "requestNewPasswordLabel": "新しいパスワードを入力してください",
+  "@requestNewPasswordLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "least6CharPasswordLabel": "パスワードは６文字以上必要です",
+  "@least6CharPasswordLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintConfirmNewPassword": "新しいパスワードを確認してください",
+  "@hintConfirmNewPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordNotMatchLabel": "パスワードが一致しません",
+  "@passwordNotMatchLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unknownLabel": "不明",
+  "@unknownLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addressLabel": "アドレス",
+  "@addressLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "taxLabel": "TAXコード.",
+  "@taxLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "branchSelectionLabel": "会社や支店の選択",
+  "@branchSelectionLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allBranchLabel": "すべての会社や支店",
+  "@allBranchLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "memberSearchHint": "名前や役職、部署名で検索",
+  "@memberSearchHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signInLabel": "サインイン{suf}",
+  "@signInLabel": {
+    "type": "text",
+    "placeholders": {
+      "suf": {}
+    }
+  },
+  "memberLabel": "{number,plural, =0{{number} のメンバー}=1{{number} のメンバー}other{{number} のメンバー}}",
+  "@memberLabel": {
+    "type": "text",
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "syncLabel": "データを同期する",
+  "@syncLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "callLabel": "コール",
+  "@callLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "eventGoingNumberLabel": "参加する予定のイベント",
+  "@eventGoingNumberLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fullProfileLabel": "全プロフィール",
+  "@fullProfileLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "viewEventsLabel": "イベントを見る",
+  "@viewEventsLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "suggestJoinEventLabel": "ひとつ以上のイベントを選んで参加してください :)",
+  "@suggestJoinEventLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "seeAllLabel": "すべて見る",
+  "@seeAllLabel": {
+    "description": "show list all member joint to event",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeJoinLabel": "変更",
+  "@changeJoinLabel": {
+    "description": "switch join/not going to event",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notGoingLabel": "参加しない",
+  "@notGoingLabel": {
+    "description": "not going to event",
+    "type": "text",
+    "placeholders": {}
+  },
+  "goingLabel": "参加する",
+  "@goingLabel": {
+    "description": "going to event",
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouGoingLabel": "参加しますか?",
+  "@areYouGoingLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exitAppLabel": "もう一度押すと終了します",
+  "@exitAppLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "numOfPeopleGoingLabel": "{number}参加する人数",
+  "@numOfPeopleGoingLabel": {
+    "type": "text",
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "notAttendingLabel": "キャンセル",
+  "@notAttendingLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passedLabel": "期限切れ",
+  "@passedLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancelLabel": "キャンセル",
+  "@cancelLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youAreNotAttendingLabel": "参加しない",
+  "@youAreNotAttendingLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youWillAttendLabel": "参加します",
+  "@youWillAttendLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "feedbackSettingsLabel": "フィードバック",
+  "@feedbackSettingsLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "feedbackTitleHint": "タイトルを入力してください",
+  "@feedbackTitleHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "titleLabel": "タイトル",
+  "@titleLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "feedbackContentHint": "フィードバック内容を入力してください",
+  "@feedbackContentHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contentLabel": "内容",
+  "@contentLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendLabel": "送信",
+  "@sendLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendFeedbackFail": "フィードバックを送信できません。後でやり直してください",
+  "@sendFeedbackFail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "errTitleEmpty": "タイトルを入力してください",
+  "@errTitleEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "errContentEmpty": "フィードバック内容を入力してください",
+  "@errContentEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thankForFeedback": "フィードバックありがとうございました",
+  "@thankForFeedback": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchColleaguesHint": "名前や仕事、スキルで検索",
+  "@searchColleaguesHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "viewLabel": "見る",
+  "@viewLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areGoingLabel": "参加する",
+  "@areGoingLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "verifyingLabel": "アバターを確認",
+  "@verifyingLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emptyFavoriteMsg": "'お気に入りリストがありません",
+  "@emptyFavoriteMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "numOfColleaguesLabel": "{number} 同僚の数",
+  "@numOfColleaguesLabel": {
+    "type": "text",
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "numGoingLabel": "{number} 参加者数",
+  "@numGoingLabel": {
+    "type": "text",
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "skypeHint": "Skypeニックネーム",
+  "@skypeHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "facebookHint": "Facebookニックネーム",
+  "@facebookHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "instagramHint": "Instagramニックネーム",
+  "@instagramHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "twitterHint": "Twitterニックネーム",
+  "@twitterHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "githubHint": "Githubニックネーム",
+  "@githubHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "linkedInHint": "LinkedInニックネーム",
+  "@linkedInHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "getDirectionLabel": "場所を見る",
+  "@getDirectionLabel": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

@@ -1,0 +1,670 @@
+{
+  "_locale": "en",
+  "@@last_modified": "2018-11-12T10:39:46.762738",
+  "title": "Colleagues",
+  "@title": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "anniversaryTitle": "ANNIVERSARY",
+  "@anniversaryTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourCompanyTitle": "Your Company",
+  "@yourCompanyTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "homeMenu": "Home",
+  "@homeMenu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "colleaguesMenu": "Colleagues",
+  "@colleaguesMenu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchMenu": "Search",
+  "@searchMenu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "favoritesMenu": "Favorites",
+  "@favoritesMenu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsMenu": "Settings",
+  "@settingsMenu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeBranchLabel": "Change Branch",
+  "@changeBranchLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changingLabel": "Changing...",
+  "@changingLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingLabel": "Loading...",
+  "@loadingLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "departmentLabel": "Departments",
+  "@departmentLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myProfileLabel": "My Profile",
+  "@myProfileLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "profileLabel": "Profile",
+  "@profileLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountSettingsLabel": "Account Settings",
+  "@accountSettingsLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "languageSettingsLabel": "Language",
+  "@languageSettingsLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appVersionLabel": "App version",
+  "@appVersionLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacyPolicyLabel": "Privacy Policy",
+  "@privacyPolicyLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectPhotoLabel": "Select Photo",
+  "@selectPhotoLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cameraLabel": "Camera",
+  "@cameraLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "galleryLabel": "Gallery",
+  "@galleryLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cameraPermissionLabel": "Camera permission",
+  "@cameraPermissionLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cameraPermissionDespLabel": "Need camera permission for capture image",
+  "@cameraPermissionDespLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "openSettingLabel": "Open Setting",
+  "@openSettingLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notSetLabel": "Not set",
+  "@notSetLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "openLabel": "OPEN",
+  "@openLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "skillsLabel": "Skills",
+  "@skillsLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addLabel": "Add",
+  "@addLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintNewSkillMsg": "Enter new skill",
+  "@hintNewSkillMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "skillNotEmptyMsg": "Skill not empty",
+  "@skillNotEmptyMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "openXLabel": "Open {item}",
+  "@openXLabel": {
+    "type": "text",
+    "placeholders": {
+      "item": {}
+    }
+  },
+  "joinAtLabel": "Joint: {item}",
+  "@joinAtLabel": {
+    "type": "text",
+    "placeholders": {
+      "item": {}
+    }
+  },
+  "callToLabel": "Call to {item}",
+  "@callToLabel": {
+    "type": "text",
+    "placeholders": {
+      "item": {}
+    }
+  },
+  "textToLabel": "Text to {item}",
+  "@textToLabel": {
+    "type": "text",
+    "placeholders": {
+      "item": {}
+    }
+  },
+  "xPeopleLabel": "{item} people",
+  "@xPeopleLabel": {
+    "type": "text",
+    "placeholders": {
+      "item": {}
+    }
+  },
+  "mailToLabel": "Mail to {item}",
+  "@mailToLabel": {
+    "type": "text",
+    "placeholders": {
+      "item": {}
+    }
+  },
+  "emailLabel": "Email",
+  "@emailLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintEmailMsg": "Please enter email",
+  "@hintEmailMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordLabel": "Password",
+  "@passwordLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintPasswordMsg": "Please enter password",
+  "@hintPasswordMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "viewAllEventLabel": "View more events",
+  "@viewAllEventLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emptyEventMsg": "Look like your company doesn’t have any events right now",
+  "@emptyEventMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "eventsLabel": "Events",
+  "@eventsLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "anniversariesLabel": "Anniversaries",
+  "@anniversariesLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "branchDetailLabel": "Branch Details",
+  "@branchDetailLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notAvailableOfflineMsg": "Not available on offline mode Detail",
+  "@notAvailableOfflineMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutHint": "Enter about from you",
+  "@aboutHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutMeLabel": "About me",
+  "@aboutMeLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "branchLabel": "Branch",
+  "@branchLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "birthdayLabel": "Birthday",
+  "@birthdayLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneLabel": "Phone number",
+  "@phoneLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneHint": "Enter phone number",
+  "@phoneHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "welcomeLabel": "Welcome,",
+  "@welcomeLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continueLabel": "CONTINUE",
+  "@continueLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tryAgainLabel": "TRY AGAIN",
+  "@tryAgainLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "keywordNotFoundMsg": "Not any result for your keyword",
+  "@keywordNotFoundMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchingLabel": "Searching...",
+  "@searchingLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allEmployeeLabel": "All employees",
+  "@allEmployeeLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emptyListLabel": "Empty list",
+  "@emptyListLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "moreLabel": "More",
+  "@moreLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactLabel": "Contacts",
+  "@contactLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "todayLabel": "Today",
+  "@todayLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "detailLabel": "Details",
+  "@detailLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "eventDetailLabel": "Event Details",
+  "@eventDetailLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allEventsLabel": "All Events",
+  "@allEventsLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offlineLabel": "offline mode",
+  "@offlineLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notificationLabel": "Notification",
+  "@notificationLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswordLabel": "Change password",
+  "@changePasswordLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logoutConfirmLabel": "Do you want to logout?",
+  "@logoutConfirmLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logoutLabel": "Logout",
+  "@logoutLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordChangedLabel": "Your password was changed",
+  "@passwordChangedLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currentPasswordLabel": "Current password",
+  "@currentPasswordLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "requestCurrentPasswordLabel": "Please enter current password",
+  "@requestCurrentPasswordLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newPasswordLabel": "New password",
+  "@newPasswordLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "requestNewPasswordLabel": "Please enter new password",
+  "@requestNewPasswordLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "least6CharPasswordLabel": "Password of at least 6 characters",
+  "@least6CharPasswordLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintConfirmNewPassword": "Confirm new password",
+  "@hintConfirmNewPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordNotMatchLabel": "Password not match",
+  "@passwordNotMatchLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unknownLabel": "Unknown",
+  "@unknownLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addressLabel": "Address",
+  "@addressLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "taxLabel": "Tax No.",
+  "@taxLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "branchSelectionLabel": "Branch selection",
+  "@branchSelectionLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allBranchLabel": "All branch",
+  "@allBranchLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "memberSearchHint": "Search name, job, department, ...",
+  "@memberSearchHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signInLabel": "SIGN IN{suf}",
+  "@signInLabel": {
+    "type": "text",
+    "placeholders": {
+      "suf": {}
+    }
+  },
+  "memberLabel": "{number,plural, =0{{number} member}=1{{number} member}other{{number} members}}",
+  "@memberLabel": {
+    "type": "text",
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "syncLabel": "Sync Data",
+  "@syncLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "callLabel": "CALL",
+  "@callLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "eventGoingNumberLabel": "Event you’re going",
+  "@eventGoingNumberLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fullProfileLabel": "See Full Profile",
+  "@fullProfileLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "viewEventsLabel": "View Events",
+  "@viewEventsLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "suggestJoinEventLabel": "You’re not going to any events. Join and connect with your company :)",
+  "@suggestJoinEventLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "seeAllLabel": "See all",
+  "@seeAllLabel": {
+    "description": "show list all member joint to event",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeJoinLabel": "Change",
+  "@changeJoinLabel": {
+    "description": "switch join/not going to event",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notGoingLabel": "NOT GOING",
+  "@notGoingLabel": {
+    "description": "not going to event",
+    "type": "text",
+    "placeholders": {}
+  },
+  "goingLabel": "GOING",
+  "@goingLabel": {
+    "description": "going to event",
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouGoingLabel": "Are you going?",
+  "@areYouGoingLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exitAppLabel": "Press one more to exit",
+  "@exitAppLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "numOfPeopleGoingLabel": "{number} people going",
+  "@numOfPeopleGoingLabel": {
+    "type": "text",
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "notAttendingLabel": "CANCEL",
+  "@notAttendingLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passedLabel": "Passed",
+  "@passedLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancelLabel": "Canceled",
+  "@cancelLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youAreNotAttendingLabel": "You are not attending",
+  "@youAreNotAttendingLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youWillAttendLabel": "You will attend",
+  "@youWillAttendLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "feedbackSettingsLabel": "Feedback",
+  "@feedbackSettingsLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "feedbackTitleHint": "Enter your title",
+  "@feedbackTitleHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "titleLabel": "Title",
+  "@titleLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "feedbackContentHint": "Enter your feedback content",
+  "@feedbackContentHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contentLabel": "Content",
+  "@contentLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendLabel": "SEND",
+  "@sendLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendFeedbackFail": "Cannot send feedback. Please try later",
+  "@sendFeedbackFail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "errTitleEmpty": "Please enter title",
+  "@errTitleEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "errContentEmpty": "Please enter feedback content",
+  "@errContentEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thankForFeedback": "Thanks for your feedback",
+  "@thankForFeedback": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchColleaguesHint": "Search name, job or skills",
+  "@searchColleaguesHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "viewLabel": "View",
+  "@viewLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areGoingLabel": "You're going",
+  "@areGoingLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "verifyingLabel": "Verifying avatar",
+  "@verifyingLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emptyFavoriteMsg": "You don’t have any colleagues in Favorites",
+  "@emptyFavoriteMsg": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "numOfColleaguesLabel": "{number} colleagues",
+  "@numOfColleaguesLabel": {
+    "type": "text",
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "numGoingLabel": "{number} going",
+  "@numGoingLabel": {
+    "type": "text",
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "skypeHint": "nick name of your Skype",
+  "@skypeHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "facebookHint": "nick name of your Facebook",
+  "@facebookHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "instagramHint": "nick name of your Instagram",
+  "@instagramHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "twitterHint": "nick name of your Twitter",
+  "@twitterHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "githubHint": "nick name of your Github",
+  "@githubHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "linkedInHint": "nick name of your LinkedIn",
+  "@linkedInHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "getDirectionLabel": "Get direction",
+  "@getDirectionLabel": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
