@@ -1,4 +1,4 @@
-package com.example.flutter_widget_tot;
+package com.example.demo_login_facebook;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
